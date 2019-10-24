@@ -8,10 +8,12 @@ En caso que muestre un error Ejm. "Message: Class 'PHPJasper\Exception\ErrorComm
 
   Podria agregar 
 
+```php
 if ($returnVar !== 0) {
       echo $returnVar.'---'.$this->command; // NUEVA LINEA
       throw new \PHPJasper\Exception\ErrorCommandExecutable();
   }
+```
 
 Esto ayudara a ver el comando que despliega la libreria para la creacion del reporte. Ejm
 
@@ -33,7 +35,6 @@ Este comando lo puedes ejecutar por consola y ver a detalle el error de jasper r
 
 Se realizaron pruebas con bajo estas condiciones. Puede que con otras versiones funcionen pero no fueron probadas.
 
-```php
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+
+
+
