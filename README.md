@@ -33,7 +33,7 @@ Este comando lo puedes ejecutar por consola y ver a detalle el error de jasper r
 
 Se realizaron pruebas con bajo estas condiciones. Puede que con otras versiones funcionen pero no fueron probadas.
 
-```javascript
+```php
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
