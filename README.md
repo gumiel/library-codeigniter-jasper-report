@@ -32,3 +32,8 @@ Este comando lo puedes ejecutar por consola y ver a detalle el error de jasper r
 - Java JDK 8 tener instalado tambien se puede usar JDK7 pero no se realizaron pruebas
 
 Se realizaron pruebas con bajo estas condiciones. Puede que con otras versiones funcionen pero no fueron probadas.
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
