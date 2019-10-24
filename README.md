@@ -15,7 +15,7 @@ if ($returnVar !== 0) {
 
 Esto ayudara a ver el comando que despliega la libreria para la creacion del reporte. Ejm
 
->block quote
+>
 
     -jasperstarter --locale en process "C:\xampp\htdocs\codeigniter_jasper\jasper_jrxml\prueba1.jasper" -o "C:\xampp\htdocs\codeigniter_jasper\temp_reports\report_20191017112124_5da8db54aeba6" -f pdf -P id="221" -t postgres -u postgres -p postgres -H localhost -n phpjasperreport --db-port 5432
 
